@@ -1,20 +1,35 @@
-# Olá, eu sou o Henrique
+# Henrique Chaves
 
-Sou densenvolvedor full-stack a mais de 3 anos, trabalho com tecnologias 
-como Java, Angular, PostgresQL, docker e AWS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/developer-henrique-chaves/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/HenriqueChavesDev)
 
-Tenho estudado nos ultimos tempos algoritmos de Machine Learning 
-e Deep Learning com a linguagem Haskell e Golang.
+## Sobre Mim
 
-No tempo livre gosto de ver filmes e estudar historia
+Olá! 👋 Sou Henrique Chaves, um desenvolvedor de software apaixonado por tecnologia e inovação. Com uma sólida experiência em desenvolvimento de software e uma paixão por aprender novas tecnologias, estou sempre em busca de novos desafios para aprimorar minhas habilidades e criar soluções eficientes.
 
-Fale comigo:
+- 🌱 Atualmente estou aprendendo mais sobre desenvolvimento web com Angular e C++.
+- 💬 Pergunte-me sobre Java, Golang, Git, Docker e AWS. Estou sempre disposto a compartilhar conhecimentos e trocar ideias.
+- 📫 Você pode me contatar em meu email: henriquechaves.jobs@gmail.com
 
-Instagram: @quase_programador
-TikTok: @quase.programdor
-Twitter: @nao_sou_dev
+## Habilidades Técnicas
 
-Linkedin: [/developer-henrique-chaves](https://www.linkedin.com/in/developer-henrique-chaves/)
-E-mail: henriquechaves.jobs@gmail.com
+- Linguagens: Java, Golang, Python.
+- Frontend: HTML, CSS, JavaScript, ReactJS, NextJS, Angular.
+- Backend: Node.js, Express.
+- Ferramentas: Git, Docker.
+- Cloud: AWS (Amazon Web Services).
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (avançado)
+
+## Interesses
+
+Além da programação, também tenho interesse em:
+- Fotografia 📷
+- Viajar ✈️
+- Livros 📚
+- Esportes 🏀⚽
 
 
